@@ -9,7 +9,7 @@ description = "Turn a Kindle 'My Clippings.txt' into clean per-book Markdown not
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "JaydenCJ" }]
+authors = [{ name = "JaydenCJ", email = "aisingioro.kiyon@gmail.com" }]
 keywords = ["kindle", "highlights", "clippings", "markdown", "notes", "dedupe", "ebook"]
 classifiers = [
     "Development Status :: 3 - Alpha",
